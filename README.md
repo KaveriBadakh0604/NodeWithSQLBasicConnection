@@ -1,4 +1,4 @@
-# Express + MySQL User Management App
+# Express + MySQL User Management
 
 A simple Node.js + Express + MySQL application for managing users with EJS templating.
 
