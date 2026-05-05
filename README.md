@@ -6,8 +6,8 @@ A simple Node.js + Express + MySQL application for managing users with EJS templ
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/KaveriBadakh0604/NodeWithSQLBasicConnection.git
+cd NodeWithSQLBasicConnection
 ```
 
 ### 2. Install dependencies
